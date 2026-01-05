@@ -1,16 +1,16 @@
 # Telegram AI Dating Agent
 
-An AI-powered Telegram agent that helps you craft witty, engaging messages for your conversations. Built with Claude Sonnet, [Nia](https://trynia.ai) semantic search, and a full-featured Telegram MCP integration.
+Telegram-агент на базе искусственного интеллекта, который поможет вам создавать остроумные и привлекательные сообщения для ваших разговоров. Создан на основе Claude Sonnet, семантического поиска [Nia](https://trynia.ai) и полнофункциональной интеграции Telegram MCP.
 
-## What It Does
+## Что он делает
 
-- **Smart Reply Suggestions**: Get AI-powered response suggestions based on conversation context
-- **500+ Pickup Lines**: Semantic search through a curated collection of pickup lines indexed with Nia
-- **Dating Guides**: Search through guides on how to talk to women, conversation starters, and flirting tips
-- **Message Enhancement**: Transform boring messages into witty, engaging ones
-- **Full Telegram Access**: Read messages, send replies, manage chats - all through natural language
+- ** Предложения по интеллектуальному ответу **: Получайте предложения по ответу с помощью искусственного интеллекта, основанные на контексте разговора
+- **500+ Подсказки **: Семантический поиск по тщательно отобранной коллекции подсказок, проиндексированной с помощью Nia
+- ** Руководства по знакомствам **: Ищите руководства о том, как разговаривать с женщинами, как начать разговор и советы по флирту
+- ** Улучшение качества сообщений **: Превращайте скучные сообщения в остроумные и увлекательные
+- ** Полный доступ к Telegram **: Читайте сообщения, отправляйте ответы, управляйте чатами - и все это на естественном языке
 
-## Powered by Nia
+## Создано Nia
 
 This agent uses [Nia](https://trynia.ai) as its knowledge retrieval engine. Nia indexes and searches through:
 - 500+ curated pickup lines (funny, cheesy, clever, romantic)
